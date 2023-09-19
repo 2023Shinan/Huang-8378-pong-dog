@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 126226079}
   m_Layer: 0
   m_Name: score_area_2
-  m_TagString: Untagged
+  m_TagString: right
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -594,7 +594,7 @@ GameObject:
   - component: {fileID: 402741348}
   m_Layer: 0
   m_Name: Paddle_2
-  m_TagString: right
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1957,7 +1957,7 @@ GameObject:
   - component: {fileID: 1441312490}
   m_Layer: 0
   m_Name: score_area_1
-  m_TagString: Untagged
+  m_TagString: left
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2414,7 +2414,7 @@ GameObject:
   - component: {fileID: 1488480743}
   m_Layer: 0
   m_Name: Paddle_1
-  m_TagString: left
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
